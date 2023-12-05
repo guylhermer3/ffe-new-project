@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Para instalar a versão 5 do react-router-dom: npm install react-router-dom@5 ###
 ### npm install
 ### npm start
+### npm run backend
