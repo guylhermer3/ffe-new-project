@@ -1,4 +1,4 @@
-import { useHistory } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 
 import ProjectForm from '../project/ProjectForm'
 
@@ -6,7 +6,7 @@ import styles from './NewProject.module.css'
 
 function Newproject() {
 
-    const history = useHistory()
+    const history = useNavigate ()
 
     function createPost(project) {
 
