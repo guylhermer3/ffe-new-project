@@ -1,6 +1,6 @@
 ### Como proceder para utilização do projeto em React ###
 
-### 1º De o comando 'npm install' para instalar node_modules.
+### 1º De o comando 'npm install' para instalar (Node Package Manager) pasta node_modules.
 
 ### 2º De o comando 'npm install react-router-dom' para instalar React Router DOM
 ### e um 'npm update react-router-dom' para ter certeza que está utilizando a ultima vesão
