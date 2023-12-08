@@ -7,13 +7,19 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 100,
+      "cost": 300,
       "services": [
         {
           "name": "Novo serviço",
           "cost": "100",
           "description": "serviço de designer",
           "id": "d63cb155-da3b-4ffb-aea5-e1f5fd79d0d8"
+        },
+        {
+          "name": "teste 3",
+          "cost": "200",
+          "description": "teste 3",
+          "id": "8d5eab15-3720-4351-b81a-9782663cdd6b"
         }
       ],
       "id": 50
@@ -25,8 +31,33 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2600,
+      "services": [
+        {
+          "name": "Serviço1",
+          "cost": "500",
+          "description": "serviço 1",
+          "id": "b6dd693f-b507-45de-b08b-8defb5747054"
+        },
+        {
+          "name": "Serviço2",
+          "cost": "700",
+          "description": "serviço 2",
+          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
+        },
+        {
+          "name": "Serviço2",
+          "cost": "700",
+          "description": "serviço 2",
+          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
+        },
+        {
+          "name": "Serviço2",
+          "cost": "700",
+          "description": "serviço 2",
+          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
+        }
+      ],
       "id": 51
     }
   ],
