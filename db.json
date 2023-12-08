@@ -1,52 +1,28 @@
 {
   "projects": [
     {
-      "name": "test33",
-      "budget": "1000",
+      "name": "Fechadura Inteligente",
+      "budget": "250000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 300,
+      "cost": 80000,
       "services": [
         {
-          "name": "Novo serviço",
-          "cost": "100",
-          "description": "serviço de designer",
-          "id": "d63cb155-da3b-4ffb-aea5-e1f5fd79d0d8"
+          "cost": "30000",
+          "name": "Desenvolvimento FrondEnd",
+          "description": "Desenvolvimento FrondEnd",
+          "id": "56a92967-4106-4bed-a6a6-2d6702bee203"
         },
         {
-          "name": "teste 3",
-          "cost": "200",
-          "description": "teste 3",
-          "id": "8d5eab15-3720-4351-b81a-9782663cdd6b"
+          "name": "Desenvolvimento BackEnd",
+          "cost": "50000",
+          "description": "Desenvolvimento BackEnd",
+          "id": "95d0762f-2237-4163-8f55-459b7b32b79d"
         }
       ],
-      "id": 50
-    },
-    {
-      "name": "projeto atualizado",
-      "budget": "15000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 2000,
-      "services": [
-        {
-          "name": "Serviço1",
-          "cost": "500",
-          "description": "serviço 1",
-          "id": "b6dd693f-b507-45de-b08b-8defb5747054"
-        },
-        {
-          "name": "teste 2",
-          "cost": "100",
-          "description": "teste 2",
-          "id": "01e73dfa-536a-4e41-8bd7-09c9634e111d"
-        }
-      ],
-      "id": 51
+      "id": 1
     }
   ],
   "categories": [

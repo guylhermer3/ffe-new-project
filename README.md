@@ -1,3 +1,9 @@
+##### Sobre o projeto #####
+## É um projeto em react que serve para criar projetos(eventos) para serem desenvolvidos
+## e dentro desse projetos(eventos) eu posso adicionar serviços que vam ser realizados e 
+## seus valores não utrapassando o valor total do projento  em si!
+
+
 ### Como proceder para utilização do projeto em React ###
 
 ### 1º De o comando 'npm install' para instalar (Node Package Manager) pasta node_modules.
