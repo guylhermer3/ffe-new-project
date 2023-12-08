@@ -2,13 +2,20 @@
   "projects": [
     {
       "name": "test33",
-      "budget": "100000",
+      "budget": "1000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Novo serviço",
+          "cost": "100",
+          "description": "serviço de designer",
+          "id": "d63cb155-da3b-4ffb-aea5-e1f5fd79d0d8"
+        }
+      ],
       "id": 50
     },
     {
