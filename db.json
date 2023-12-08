@@ -31,7 +31,7 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 2600,
+      "cost": 2000,
       "services": [
         {
           "name": "Serviço1",
@@ -40,22 +40,10 @@
           "id": "b6dd693f-b507-45de-b08b-8defb5747054"
         },
         {
-          "name": "Serviço2",
-          "cost": "700",
-          "description": "serviço 2",
-          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
-        },
-        {
-          "name": "Serviço2",
-          "cost": "700",
-          "description": "serviço 2",
-          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
-        },
-        {
-          "name": "Serviço2",
-          "cost": "700",
-          "description": "serviço 2",
-          "id": "f00bb426-7899-425b-bf6b-d642fa51b432"
+          "name": "teste 2",
+          "cost": "100",
+          "description": "teste 2",
+          "id": "01e73dfa-536a-4e41-8bd7-09c9634e111d"
         }
       ],
       "id": 51
