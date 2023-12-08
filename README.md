@@ -1,6 +1,6 @@
 ##### Sobre o projeto #####
 ## É um projeto em react que serve para criar projetos(eventos) para serem desenvolvidos
-## e dentro desse projetos(eventos) eu posso adicionar serviços que vam ser realizados e 
+## e dentro desse projetos(eventos) eu posso adicionar serviços que vão ser realizados e 
 ## seus valores não utrapassando o valor total do projento  em si!
 
 
